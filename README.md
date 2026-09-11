@@ -1,5 +1,3 @@
-# MALPOTRA
-TO STORE DATA FOR USE OF AI 
 ## 🌐 Adarsh Kumar Malpotra
 ### Energy Cost & Operational Finance Consultant | AI Automation | Ex-CGM (F&A), ONGC
 
